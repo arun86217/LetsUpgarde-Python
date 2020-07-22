@@ -20,6 +20,8 @@ download installer and install
 
 What is code enivronment ? types of code environment
 
+CodeEnvironment: writing ,compiling and seeing the results of the code in the same place
+
 There are 3 main types of Environments
 a.Text Editors
 b.Full IDEs
